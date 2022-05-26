@@ -1,0 +1,15 @@
+/Users/thang/Desktop/MISA/MISA.WEBAPI/MISA.WEBAPI.Infrastructure/bin/Debug/net5.0/MISA.WEBAPI.Infrastructure.deps.json
+/Users/thang/Desktop/MISA/MISA.WEBAPI/MISA.WEBAPI.Infrastructure/bin/Debug/net5.0/MISA.WEBAPI.Infrastructure.dll
+/Users/thang/Desktop/MISA/MISA.WEBAPI/MISA.WEBAPI.Infrastructure/bin/Debug/net5.0/ref/MISA.WEBAPI.Infrastructure.dll
+/Users/thang/Desktop/MISA/MISA.WEBAPI/MISA.WEBAPI.Infrastructure/bin/Debug/net5.0/MISA.WEBAPI.Infrastructure.pdb
+/Users/thang/Desktop/MISA/MISA.WEBAPI/MISA.WEBAPI.Infrastructure/bin/Debug/net5.0/MISA.WEBAPI.Core.dll
+/Users/thang/Desktop/MISA/MISA.WEBAPI/MISA.WEBAPI.Infrastructure/bin/Debug/net5.0/MISA.WEBAPI.Core.pdb
+/Users/thang/Desktop/MISA/MISA.WEBAPI/MISA.WEBAPI.Infrastructure/obj/Debug/net5.0/MISA.WEBAPI.Infrastructure.csproj.AssemblyReference.cache
+/Users/thang/Desktop/MISA/MISA.WEBAPI/MISA.WEBAPI.Infrastructure/obj/Debug/net5.0/MISA.WEBAPI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thang/Desktop/MISA/MISA.WEBAPI/MISA.WEBAPI.Infrastructure/obj/Debug/net5.0/MISA.WEBAPI.Infrastructure.AssemblyInfoInputs.cache
+/Users/thang/Desktop/MISA/MISA.WEBAPI/MISA.WEBAPI.Infrastructure/obj/Debug/net5.0/MISA.WEBAPI.Infrastructure.AssemblyInfo.cs
+/Users/thang/Desktop/MISA/MISA.WEBAPI/MISA.WEBAPI.Infrastructure/obj/Debug/net5.0/MISA.WEBAPI.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/thang/Desktop/MISA/MISA.WEBAPI/MISA.WEBAPI.Infrastructure/obj/Debug/net5.0/MISA.WEBAPI.Infrastructure.csproj.CopyComplete
+/Users/thang/Desktop/MISA/MISA.WEBAPI/MISA.WEBAPI.Infrastructure/obj/Debug/net5.0/MISA.WEBAPI.Infrastructure.dll
+/Users/thang/Desktop/MISA/MISA.WEBAPI/MISA.WEBAPI.Infrastructure/obj/Debug/net5.0/ref/MISA.WEBAPI.Infrastructure.dll
+/Users/thang/Desktop/MISA/MISA.WEBAPI/MISA.WEBAPI.Infrastructure/obj/Debug/net5.0/MISA.WEBAPI.Infrastructure.pdb

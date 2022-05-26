@@ -1,0 +1,89 @@
+﻿<Properties StartupConfiguration="{BE3123F5-B394-4F7B-9582-7B74E515D05C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MISA.WEBAPI.Core/Entities/Bill.cs">
+    <Files>
+      <File FileName="MISA.WEBAPI.API/Controllers/MISABaseController.cs" Line="206" Column="14" />
+      <File FileName="MISA.WEBAPI.Core/Services/BaseService.cs" />
+      <File FileName="MISA.WEBAPI.Infrastructure/Infrastructure/BaseInfrastructure.cs" />
+      <File FileName="MISA.WEBAPI.Core/Enum/MISAEnum.cs" />
+      <File FileName="MISA.WEBAPI.Core/Resources/Resources.resx" />
+      <File FileName="MISA.WEBAPI.Core/MISAAttribute/MISAAttribute.cs" />
+      <File FileName="MISA.WEBAPI.Core/Resources/Resources.Designer.cs" />
+      <File FileName="MISA.WEBAPI.Core/Interfaces/Infrastructure/IBaseInfrastructure.cs" />
+      <File FileName="MISA.WEBAPI.Core/Interfaces/Services/IBaseService.cs" />
+      <File FileName="MISA.WEBAPI.API/Startup.cs" />
+      <File FileName="MISA.WEBAPI.API/appsettings.json" />
+      <File FileName="MISA.WEBAPI.API/Program.cs" />
+      <File FileName="MISA.WEBAPI.API/appsettings.Development.json" />
+      <File FileName="MISA.WEBAPI.Core/Entities/Customer.cs" />
+      <File FileName="MISA.WEBAPI.API/Controllers/CustomersController .cs" />
+      <File FileName="MISA.WEBAPI.Core/Entities/Bill.cs" Line="13" Column="10" />
+      <File FileName="MISA.WEBAPI.API/Controllers/BillsController.cs" />
+      <File FileName="MISA.WEBAPI.API/Controllers/ProductsController.cs" />
+      <File FileName="MISA.WEBAPI.API/Controllers/AccountsController.cs" />
+      <File FileName="MISA.WEBAPI.Core/Interfaces/Infrastructure/IAccountInfrastructure.cs" />
+      <File FileName="MISA.WEBAPI.Infrastructure/Infrastructure/AccountInfrastructure.cs" />
+      <File FileName="MISA.WEBAPI.Infrastructure/Infrastructure/AccountAdminInfrastructure.cs" />
+      <File FileName="MISA.WEBAPI.API/Controllers/AdminAccountsController.cs" />
+      <File FileName="MISA.WEBAPI.Core/Interfaces/Infrastructure/IAdminAccountInfrastructure.cs" />
+      <File FileName="MISA.WEBAPI.Core/Entities/UserAccount.cs" />
+      <File FileName="MISA.WEBAPI.Core/Entities/Product.cs" />
+      <File FileName="MISA.WEBAPI.Core/Entities/Manufacture.cs" />
+      <File FileName="MISA.WEBAPI.API/Controllers/ManufacturesController.cs" />
+      <File FileName="MISA.WEBAPI.Core/Entities/AdminAccount.cs" />
+      <File FileName="MISA.WEBAPI.Infrastructure/Infrastructure/BillInfrastructure.cs" />
+      <File FileName="MISA.WEBAPI.Core/Interfaces/Infrastructure/IBillInfrastructure.cs" />
+      <File FileName="MISA.WEBAPI.Core/Entities/BillManage.cs" />
+      <File FileName="MISA.WEBAPI.Core/Interfaces/Infrastructure/IBillManage.cs" />
+      <File FileName="MISA.WEBAPI.Infrastructure/Infrastructure/BillManageInfrastructure.cs" />
+      <File FileName="MISA.WEBAPI.API/Controllers/BillManageController.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MISA.WEBAPI" expanded="True">
+            <Node name="MISA.WEBAPI.API" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+            <Node name="MISA.WEBAPI.Core" expanded="True">
+              <Node name="Entities" expanded="True">
+                <Node name="Bill.cs" selected="True" />
+              </Node>
+              <Node name="Enum" expanded="True" />
+              <Node name="Interfaces" expanded="True">
+                <Node name="Infrastructure" expanded="True" />
+                <Node name="Services" expanded="True" />
+              </Node>
+              <Node name="MISAAttribute" expanded="True" />
+              <Node name="Resources" expanded="True">
+                <Node name="Resources.resx" expanded="True" />
+              </Node>
+              <Node name="Services" expanded="True" />
+            </Node>
+            <Node name="MISA.WEBAPI.Infrastructure" expanded="True">
+              <Node name="Infrastructure" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MISA.WEBAPI.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <Debugger.DebugSourceFolders>
+    <String>/Users/thang/Library/Caches/VisualStudio/8.0/Symbols/mysql-net/MySqlConnector/bce3051ac49c5aa99bbc30e228aff631a96e6f6b</String>
+    <String>/Users/thang/Library/Caches/VisualStudio/8.0/Symbols/DapperLib/Dapper/2a837ad7d036671ac9a75c9945bb970aa41b7de9</String>
+  </Debugger.DebugSourceFolders>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint enabled="false" file="/Users/thang/Desktop/MISA/MISA.WEBAPI/MISA.WEBAPI.Core/Services/BaseService.cs" relfile="MISA.WEBAPI.Core/Services/BaseService.cs" line="55" column="1" />
+      <Breakpoint enabled="false" file="/Users/thang/Desktop/MISA/MISA.WEBAPI/MISA.WEBAPI.Core/Interfaces/Infrastructure/IEmployeeInfrastructure.cs" relfile="MISA.WEBAPI.Core/Interfaces/Infrastructure/IEmployeeInfrastructure.cs" line="16" column="1" />
+      <Breakpoint enabled="false" file="/Users/thang/Desktop/MISA/MISA.WEBAPI/MISA.WEBAPI.Core/Interfaces/Infrastructure/IEmployeeInfrastructure.cs" relfile="MISA.WEBAPI.Core/Interfaces/Infrastructure/IEmployeeInfrastructure.cs" line="13" column="1" />
+      <Breakpoint enabled="false" file="/Users/thang/Desktop/MISA/MISA.WEBAPI/MISA.WEBAPI.API/Controllers/EmployeesController.cs" relfile="MISA.WEBAPI.API/Controllers/EmployeesController.cs" line="88" column="1" />
+      <Breakpoint enabled="false" file="/Users/thang/Desktop/MISA/MISA.WEBAPI/MISA.WEBAPI.Infrastructure/Infrastructure/BaseInfrastructure.cs" relfile="MISA.WEBAPI.Infrastructure/Infrastructure/BaseInfrastructure.cs" line="92" column="1" />
+      <Breakpoint enabled="false" file="/Users/thang/Desktop/MISA/MISA.WEBAPI/MISA.WEBAPI.Infrastructure/Infrastructure/BaseInfrastructure.cs" relfile="MISA.WEBAPI.Infrastructure/Infrastructure/BaseInfrastructure.cs" line="159" column="13" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
